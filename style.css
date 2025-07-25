@@ -1,0 +1,10 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+}
+.hero {
+  background: linear-gradient(rgba(213,0,0,0.7), rgba(213,0,0,0.7)), url('https://images.unsplash.com/photo-1508675801604-14c0e77cfcff') center/cover no-repeat;
+  padding: 100px 0;
+}
+.card {
+  border-radius: 10px;
+}
