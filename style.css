@@ -8,3 +8,4 @@ body {
 .card {
   border-radius: 10px;
 }
+button { background: #a0522d; color: white; border: none; padding: 10px 15px; cursor: pointer; }
